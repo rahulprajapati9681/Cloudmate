@@ -17,9 +17,9 @@ Handles invalid input, network issues, and empty fields gracefully
 with Clean UI: Simple, intuitive design ensures a smooth user experience
 
 # 💻 Technologies Used
-- Category	Tools/Technologies
-- Language	Dart
-- Framework	Flutter
-- API	OpenWeatherMap
-- Networking	http package for API requests
-- Data Format	JSON
+- Category	  - Tools/Technologies
+- Language	  - Dart
+- Framework	  - Flutter
+- API	        - OpenWeatherMap
+- Networking	- http package for API requests
+- Data Format	- JSON
