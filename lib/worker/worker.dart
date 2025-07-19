@@ -17,7 +17,7 @@ class worker {
 
   Future<void> getData() async {
     try {
-      var url = Uri.parse('https://api.openweathermap.org/data/2.5/weather?q=$location&appid=43d8214b9a7c4765d63cf567897eba57');
+      var url = Uri.parse('USE YOUR OPENWEATHER API HERE'); // Paste your API Key Here
       Response response = await get(url);
 
       if (response.statusCode == 200) {
