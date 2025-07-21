@@ -1,4 +1,4 @@
-# ☁️ CloudMate – Real-Time Weather App
+# a weather app for beginners
 CloudMate is a sleek and responsive Flutter weather application that allows users to instantly check real-time weather conditions in any city around the world. From temperature to humidity and wind speed — get all the vital info in one clean interface.
 
 # 🌟 App Highlights
